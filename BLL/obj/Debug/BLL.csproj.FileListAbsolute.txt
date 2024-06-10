@@ -1,0 +1,10 @@
+D:\DONET\Personal_Tracking\BLL\bin\Debug\BLL.dll
+D:\DONET\Personal_Tracking\BLL\bin\Debug\BLL.pdb
+D:\DONET\Personal_Tracking\BLL\bin\Debug\DAL.dll
+D:\DONET\Personal_Tracking\BLL\bin\Debug\DAL.pdb
+D:\DONET\Personal_Tracking\BLL\bin\Debug\DAL.dll.config
+D:\DONET\Personal_Tracking\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DONET\Personal_Tracking\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DONET\Personal_Tracking\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\DONET\Personal_Tracking\BLL\obj\Debug\BLL.dll
+D:\DONET\Personal_Tracking\BLL\obj\Debug\BLL.pdb
